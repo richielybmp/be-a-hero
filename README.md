@@ -43,6 +43,8 @@ yarn start
 
 ### :information_source: Instruções App mobile
 
+Para depurar, você pode utilizar o Expo. Faça o download o Expo no seu celular, e ao iniciar a aplicação, siga as instruções para se conectar.
+
 ```bash
 #instalar os pacotes e dependências
 yarn
